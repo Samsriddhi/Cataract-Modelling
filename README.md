@@ -1,6 +1,6 @@
 # Cataract-Modelling
 An AI model that scans the demographic data of a given region and predicts the weights of these demographic factors (age, gender, economic background, location, etc) in a successful cataract surgery.
-
+The data used is not made available to the public for it was used with a license.
 
 Introduction:
 
